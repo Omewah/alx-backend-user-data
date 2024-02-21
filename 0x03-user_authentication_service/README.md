@@ -59,3 +59,6 @@ Remember that this project's primary goal is to learn the principles of user aut
 ## Acknowledgments
 
 This project is inspired by real-world authentication systems and aims to provide hands-on experience with implementing user authentication and session management in a secure and controlled environment.
+
+## Author
+* [Joel Omewah](https://github.com/Omewah)
